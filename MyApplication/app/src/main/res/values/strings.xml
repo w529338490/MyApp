@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+<<<<<<< HEAD
     <string name="navigation_drawer_open">open</string>
     <string name="navigation_drawer_close">close</string>
+=======
+>>>>>>> 6e4dedf5b9c7bda2c05123cae75d1fdc276349d0
 </resources>
