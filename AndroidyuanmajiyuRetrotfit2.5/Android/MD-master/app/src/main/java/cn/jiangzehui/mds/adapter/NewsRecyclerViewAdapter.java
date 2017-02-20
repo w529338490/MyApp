@@ -134,7 +134,10 @@ public class NewsRecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.V
 
     @Override
     public int getItemCount() {
-        return isFooterView ? list.size() + 1 : list.size();
+        if (isFooterView) {
+            return list.size() + 1;
+        }
+        else return list.size();
     }
 
 

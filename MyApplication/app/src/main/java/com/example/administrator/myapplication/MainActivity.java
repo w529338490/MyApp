@@ -2,6 +2,7 @@ package com.example.administrator.myapplication;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
+import android.support.design.widget.Snackbar;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.GravityCompat;
@@ -38,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     PaperAdapter adapter;
 
     @InjectView(R.id.nv)
-            NavigationView nv;
+    NavigationView nv;
     ArrayList<Fragment> list = new ArrayList<>();
     private final String[] mTitles = {"Android", "iOS", "前端", "拓展资源"};
     @Override
@@ -78,7 +79,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         adapter=new PaperAdapter(getSupportFragmentManager(),list,mTitles);
         pager.setAdapter(adapter);
 
-
     }
 
     @Override
@@ -98,4 +98,28 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
         return true;
     }
+
+    long nowTime;
+    @Override
+    public void onBackPressed()
+
+    {
+        if(mDrawerLayout.isDrawerOpen(nv))
+        {
+            mDrawerLayout.closeDrawer(nv);
+            return;
+        }
+
+        if(System.currentTimeMillis()-nowTime>2000)
+        {
+            nowTime=System.currentTimeMillis();
+            Snackbar snackbar = Snackbar.make(mDrawerLayout, "再按一次返回键退出程序", Snackbar.LENGTH_SHORT);
+            snackbar.getView().setBackgroundColor(getResources().getColor(R.color.colorPrimary));
+            snackbar.show();
+        }else {
+            finish();
+        }
+    }
+
+
 }

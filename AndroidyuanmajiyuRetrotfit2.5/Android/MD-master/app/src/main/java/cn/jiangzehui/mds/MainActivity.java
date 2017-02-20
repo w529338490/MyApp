@@ -117,11 +117,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
      */
     @Override
     public void onBackPressed() {
-
-        if(drawerLayout.isDrawerOpen(nv)){
-            drawerLayout.closeDrawers();
-            return;
-        }
+//
+//        if(drawerLayout.isDrawerOpen(nv)){
+//            drawerLayout.closeDrawers();
+//            return;
+//        }
 
 
         if (System.currentTimeMillis() - newTime > 2000) {

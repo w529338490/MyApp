@@ -1,21 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-<<<<<<< HEAD
+
     compileSdkVersion 24
     buildToolsVersion "24.0.3"
     defaultConfig {
         applicationId "com.example.administrator.myapplication"
         minSdkVersion 15
         targetSdkVersion 24
-=======
-    compileSdkVersion 23
-    buildToolsVersion "25.0.0"
-    defaultConfig {
-        applicationId "com.example.dell.myapplication"
-        minSdkVersion 23
-        targetSdkVersion 23
->>>>>>> 6e4dedf5b9c7bda2c05123cae75d1fdc276349d0
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -33,7 +25,7 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-<<<<<<< HEAD
+
     compile 'com.android.support:appcompat-v7:24.2.1'
     //design
     compile 'com.android.support:design:24.2.1'
@@ -55,8 +47,5 @@ dependencies {
     compile 'tv.danmaku.ijk.media:ijkplayer-exo:0.5.1'
     compile 'tv.danmaku.ijk.media:ijkplayer-x86:0.5.1'
     compile 'tv.danmaku.ijk.media:ijkplayer-armv5:0.5.1'
-=======
-    compile 'com.android.support:appcompat-v7:23.4.0'
-    testCompile 'junit:junit:4.12'
->>>>>>> 6e4dedf5b9c7bda2c05123cae75d1fdc276349d0
+
 }
