@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#2ea19c</color>
     <color name="colorAccent">#FF4081</color>
     <color name="wirt">#ffffff</color>
+    <color name="black">#000000</color>
 </resources>

@@ -39,7 +39,10 @@ public class Api {
 
 
     private Api() {
-        Retrofit retrofit = new Retrofit.Builder().baseUrl(url).addConverterFactory(factory).build();
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(url)
+                .addConverterFactory(factory)
+                .build();
         service = retrofit.create(HttpService.class);
 
     }

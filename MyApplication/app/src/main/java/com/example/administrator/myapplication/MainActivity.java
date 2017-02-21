@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @InjectView(R.id.nv)
     NavigationView nv;
     ArrayList<Fragment> list = new ArrayList<>();
-    private final String[] mTitles = {"Android", "iOS", "前端", "拓展资源"};
+    private final String[] mTitles = {"头条","科技", "社会", "国内", "娱乐"};
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toggle.syncState();
         for(int i=0;i<mTitles.length;i++)
         {
-            News_Fragment newsf=News_Fragment.newInstance(mTitles[i]);
+            News_Fragment newsf=News_Fragment.newInstance(i);
                list.add(newsf);
 
         }

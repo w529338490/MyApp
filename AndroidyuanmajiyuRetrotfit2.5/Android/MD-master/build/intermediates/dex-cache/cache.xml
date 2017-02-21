@@ -3,318 +3,318 @@
 
     <item
         is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_9001dbabd8eb66568b73fc786d7d1ee3f9c35c82\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_9f36ca19e23542e3be5d68475bdba31de6ce2d0a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_9a053c32c847ac098b77992475af2afbe0581ef7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e060f7e8fdac245d2f4bfa6658506c33e9c0be89\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f59c55c5b384c0166869afe785cb0aa32ff0eae9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9dfb4c439a4b87583a2621fa4e3832b32ae4a62">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-java-0.5.1_c1a39cceb8530801b58e001d9672927510eb7927\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b34affdede63c4acb3ed77cf77a60a439f586d48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.1\645f1ad2f6f4cbad1cde4c483eae71e4051be6ef\jsoup-1.10.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.1_7a1445f25dc01ad02be3801df5bdde1847513088\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-x86\0.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="db91c22aab89b869755f616005efc0ad19dc9e3c">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-x86-0.5.1_339c96f835f00d53b8b77396626295e1df0580ad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c4baff0d254182af1318f5adffd4e05c9d446676\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_245975a6bc4a82b92513f979bf0afbd42d593d05\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_38fdfac44a15b2fd97b8d5656e98efe38929b74f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_8e20e90985f19d80d3236390636ed02efe1c1c1a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6e645ed257c6535b240462c22c54201531732c69\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6c44ffd658a04f0e3f4f3adcdadf4f13b32db97e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d2d713716bde0c4bd57b520ec708740052d1872f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv7a\0.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a77a7185614a8450144b47642b72137befae74c4">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-armv7a-0.5.1_7c56eac6c2f667c032e4270e4610f503a6ea8b96\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_8f5aade8774f291398825173d4a9cff52a25707e\classes.dex" />
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_14adb017581085d4c2713885b0fda574014fe81d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cbc8acb2e11d151aa4971772861959b0e7f9f3">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6592457e98662d480db1198d34eb1e7a448a136f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv5\0.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ce3183eceacb4ee423c681218bdb3093a1e56400">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-armv5-0.5.1_b24765c3ab5c33ab935d1c2b495c1277d3162a20\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_3a58e35bf6a5e947633cf473b50a404a90a17abb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a54baba55709678afa240ecd790d7a56e67e4b8c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_3a425aefa926870eaf559a161c4b179e07e63e32\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8bc7b5cd5d9ce3eb528ba0e9e94d389d0e61b507\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_b0c3870e52a7b34f2f192cd9d7bb22ba2269648f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fce32b6bce019732ff164b66befba960b63feef7\classes.dex" />
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6596818cf9d0480a3e25366aae015e70b958550d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-exo\0.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ff8b85ac4f2da86f81ff957e33938c584fc3d7dd">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-exo-0.5.1_b9034c464c89aaf02bab9c883db3db7ee810129d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_bb4efdd373a68d0b6f727effb5b9be26312347cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.7\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f156a33c2991564977dc8514b709d8cbd1d43adc">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.7_4fbd1b3337db0c063f1fdcd937a95ef3eb626593\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_f1797eba3fc4d2fafb0961fb341e4bdd1b1c1cea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.1\jars\classes.jar"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.3.1_7149b0973fd64fec66efbbeebc68c51c7b93a4c1\classes.dex" />
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.3.1_337e020f818caa1e0740abf88553bd7f4b55a8eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2b8f4b25d60a23c353da96dc37dbd8e208ea3a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8c234f61cbf6f69831a087b406631cb311a06fc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9dfb4c439a4b87583a2621fa4e3832b32ae4a62">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-java-0.5.1_87967f339b3a41db53feb1cc530b95c7bae9bc01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_b8733cee41cf1c9deabe61e28ac10f1e11c76bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6147153b6bdfadc337194c4ae4efd506095a5c3d">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3181cc787684bd060fb5cd2f2061e884fa14f860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_d6c249424cdb30d0edf4364fbdc80a102e2d1831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_95c01713342ab5953e52ec24b8f0beb8669aaed2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6004fe8a8bda6f9e590c72cc9fb3d9a35b27332b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv7a\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a77a7185614a8450144b47642b72137befae74c4">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-armv7a-0.5.1_2db2377cffec97e39fa57e39765d935e60b035ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_264d0b61095dfa24c3e0f6aaba0d370152a7eeae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-x86\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db91c22aab89b869755f616005efc0ad19dc9e3c">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-x86-0.5.1_0aa54b2ed47a4c20dff9458768592fbad2a9b527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_b9a0d6b147ce7ae52964d05a9e7e05cbafa0af86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ea312f803705019a6471c0adebae3de8db0d7ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_5efed389600cdcdf3af8e49a48c3509d45394ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_ce7e9ec970ba445d88d9f8340485f3029ef0004f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.1\645f1ad2f6f4cbad1cde4c483eae71e4051be6ef\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.1_2a86fbfc876000034a1d2d14504e24f8dc81a9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f156a33c2991564977dc8514b709d8cbd1d43adc">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.7_cf3d1e9ce48c899ac5ef1ed5906013139a52f5d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-exo\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff8b85ac4f2da86f81ff957e33938c584fc3d7dd">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-exo-0.5.1_d6463a9e7ccec93f7fe14606a10ff7c3c6b939e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_1c562b327e6f587e51f0d8b565d80cecdaedd583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_e94878cb8d41beb4921ed08f5917f31b7469eca6\classes.dex" />
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_4e4ce574f3d72998b594448756183a3048e0c38d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_01cc990dcf2d17d688f9fc2e7c93ea22339e41ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a33dab5667606d8866b36dfdfa46b8ce72ec575f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_89605c2af1181b16c06d593e78fa209e6476f545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45a9adb85039d212dd4061f5c2edfeacdaedac2e">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08963444f95a8f2ee88615639faf94f07cbfea3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ab7bc24409f2fcb6841b7898c69ca56670310079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-armv5\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce3183eceacb4ee423c681218bdb3093a1e56400">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-armv5-0.5.1_5b132d70e687cf53999a0f2c9e611e04a01cf960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_9f2add4bdecbf6a9629dba6cc47811bb2f8b6e9b\classes.dex" />
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_efd28527431ebc08e2b417e22080fe745e7c8aae\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="432862bc1046aa5f4e9e333947dd13f71865b9e4">
-        <dex dex="D:\GitHub\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_05b16942d46cc967e27fd0170305a272b1147bc0\classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\APP\AndroidyuanmajiyuRetrotfit2.5\Android\MD-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_73601da1aff82842a554b0e0ce69a5a677143d5f\classes.dex" />
     </item>
 
 </items>

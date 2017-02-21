@@ -9,9 +9,13 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.administrator.myapplication.R;
+import com.example.administrator.myapplication.entity.Result;
 
 import java.security.spec.PSSParameterSpec;
 import java.util.List;
@@ -25,11 +29,16 @@ public class News_fragmentAdapter extends RecyclerView.Adapter<RecyclerView.View
     Context context;
     LayoutInflater inflaters;
     List<String> list;
+
+    List<Result.ResultBean.DataBean> data;
     final int NOFOOT = 1;
     final int YESFOOT = 2;
-    public News_fragmentAdapter(Context context, List<String> list) {
+
+    public OnItemClickListener listener;
+
+    public News_fragmentAdapter(Context context, List<Result.ResultBean.DataBean> data) {
         this.context = context;
-        this.list = list;
+        this.data = data;
         inflaters=LayoutInflater.from(context);
     }
 
@@ -50,44 +59,60 @@ public class News_fragmentAdapter extends RecyclerView.Adapter<RecyclerView.View
     }
 
     @Override
-    public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
-        if (holder instanceof MyHolder) {
-            ((MyHolder) holder).tv.setTextColor(context.getResources().getColor(R.color.colorAccent));
-            ((MyHolder) holder).tv.setText(list.get(position));
+    public void onBindViewHolder(RecyclerView.ViewHolder holder, final int position) {
+        if (holder instanceof MyHolder)
+        {
+            ((MyHolder) holder).tittle.setTextColor(context.getResources().getColor(R.color.colorAccent));
+            ((MyHolder) holder).tittle.setText(data.get(position).getTitle());
+            ((MyHolder) holder).date.setText(data.get(position).getDate());
+            Glide.with(context)
+                    .load(data.get(position).getThumbnail_pic_s())
+                    .centerCrop()
+                    .placeholder(R.mipmap.ic_mr)
+                    .crossFade()
+                    .into(((MyHolder) holder).pic);
+            ((MyHolder) holder).view.setOnClickListener(new View.OnClickListener()
+            {
+                @Override
+                public void onClick(View v)
+
+                {
+                    listener.getData(position);
+
+                }
+            });
+
         }
     }
 
     @Override
     public int getItemCount() {
-        return list.size();
+        return data.size();
     }
 
     @Override
     public int getItemViewType(int position)
     {
-        if (position == (list.size())) {
-            return YESFOOT;
-        } else {
-            return NOFOOT;
-        }
+
+            return 1;
+
     }
 
     class MyHolder extends RecyclerView.ViewHolder
     {
-        TextView tv;
+        TextView tittle;
+        TextView date;
+        ImageView pic;
+        View view;
 
         public MyHolder(View itemView) {
             super(itemView);
-            tv= (TextView) itemView.findViewById(R.id.tv);
+            tittle= (TextView) itemView.findViewById(R.id.tittle);
+            date= (TextView) itemView.findViewById(R.id.date);
+            pic= (ImageView) itemView.findViewById(R.id.pic);
+            view=itemView;
         }
-        public void setTittle(String tittle)
-        {
-            if(!tittle.equals(""))
-            {
-                tv.setText(tittle);
 
-            }
-        }
     }
     class MyHolder_foot extends RecyclerView.ViewHolder {
 
@@ -96,5 +121,16 @@ public class News_fragmentAdapter extends RecyclerView.Adapter<RecyclerView.View
             super(itemView);
 
         }
+    }
+
+    public  void setOnItemClickListener(OnItemClickListener listener)
+    {
+
+        this.listener=listener;
+
+    }
+    public interface  OnItemClickListener
+    {
+        void getData(int position);
     }
 }
