@@ -16,9 +16,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.administrator.myapplication.adapter.News_fragmentAdapter;
 import com.example.administrator.myapplication.adapter.PaperAdapter;
-import com.example.administrator.myapplication.fragment.News_Fragment;
+import com.example.administrator.myapplication.fragment.NewsFragment;
 
 import java.util.ArrayList;
 
@@ -72,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toggle.syncState();
         for(int i=0;i<mTitles.length;i++)
         {
-            News_Fragment newsf=News_Fragment.newInstance(i);
+            NewsFragment newsf= NewsFragment.newInstance(i);
                list.add(newsf);
 
         }
