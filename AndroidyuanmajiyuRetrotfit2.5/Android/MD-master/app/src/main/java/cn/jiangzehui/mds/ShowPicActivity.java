@@ -52,7 +52,6 @@ public class ShowPicActivity extends AppCompatActivity {
         }
         if (imgUrl.contains("gif")) {
 
-
             final WeakReference<ImageView> imageViewWeakReference = new WeakReference<>(iv);
             final ImageView target = imageViewWeakReference.get();
             if (target != null) {

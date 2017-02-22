@@ -1,5 +1,6 @@
 package com.example.administrator.myapplication;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
@@ -16,9 +17,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.administrator.myapplication.adapter.News_fragmentAdapter;
 import com.example.administrator.myapplication.adapter.PaperAdapter;
-import com.example.administrator.myapplication.fragment.News_Fragment;
+import com.example.administrator.myapplication.fragment.GifFragment;
+import com.example.administrator.myapplication.fragment.NewsFragment;
 
 import java.util.ArrayList;
 
@@ -72,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toggle.syncState();
         for(int i=0;i<mTitles.length;i++)
         {
-            News_Fragment newsf=News_Fragment.newInstance(i);
+            NewsFragment newsf= NewsFragment.newInstance(i);
                list.add(newsf);
 
         }
@@ -90,7 +91,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 Toast.makeText(MainActivity.this,"nav_news",Toast.LENGTH_SHORT).show();
                 break;
             case  R.id.nav_gif:
-                Toast.makeText(MainActivity.this,"group_gif",Toast.LENGTH_SHORT).show();
+
+                Intent intent=new Intent(MainActivity.this, GifActivity.class);
+                startActivity(intent);
                 break;
             case  R.id.nav_video:
                 Toast.makeText(MainActivity.this,"group_vedio",Toast.LENGTH_SHORT).show();

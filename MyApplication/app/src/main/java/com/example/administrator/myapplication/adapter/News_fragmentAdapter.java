@@ -1,7 +1,12 @@
 package com.example.administrator.myapplication.adapter;
 
 
+import android.annotation.TargetApi;
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.Drawable;
+import android.os.Build;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -11,10 +16,15 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.animation.GlideAnimation;
+import com.bumptech.glide.request.target.SimpleTarget;
 import com.example.administrator.myapplication.R;
+import com.example.administrator.myapplication.Utill.CircleTransform;
+import com.example.administrator.myapplication.Utill.GlideRoundTransform;
 import com.example.administrator.myapplication.entity.Result;
 
 import java.security.spec.PSSParameterSpec;
@@ -59,18 +69,23 @@ public class News_fragmentAdapter extends RecyclerView.Adapter<RecyclerView.View
     }
 
     @Override
-    public void onBindViewHolder(RecyclerView.ViewHolder holder, final int position) {
+    public void onBindViewHolder(final RecyclerView.ViewHolder holder, final int position) {
         if (holder instanceof MyHolder)
         {
             ((MyHolder) holder).tittle.setTextColor(context.getResources().getColor(R.color.colorAccent));
             ((MyHolder) holder).tittle.setText(data.get(position).getTitle());
             ((MyHolder) holder).date.setText(data.get(position).getDate());
+
+
             Glide.with(context)
                     .load(data.get(position).getThumbnail_pic_s())
+                    .transform(new GlideRoundTransform(context,20))
                     .centerCrop()
                     .placeholder(R.mipmap.ic_mr)
-                    .crossFade()
+                    .crossFade(1500)
                     .into(((MyHolder) holder).pic);
+
+
             ((MyHolder) holder).view.setOnClickListener(new View.OnClickListener()
             {
                 @Override
@@ -105,11 +120,13 @@ public class News_fragmentAdapter extends RecyclerView.Adapter<RecyclerView.View
         ImageView pic;
         View view;
 
+
         public MyHolder(View itemView) {
             super(itemView);
             tittle= (TextView) itemView.findViewById(R.id.tittle);
             date= (TextView) itemView.findViewById(R.id.date);
             pic= (ImageView) itemView.findViewById(R.id.pic);
+
             view=itemView;
         }
 
