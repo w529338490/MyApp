@@ -96,7 +96,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 startActivity(intent);
                 break;
             case  R.id.nav_video:
-                Toast.makeText(MainActivity.this,"group_vedio",Toast.LENGTH_SHORT).show();
+                Intent intent2=new Intent(MainActivity.this, VideoActivity.class);
+                startActivity(intent2);
                 break;
         }
         return true;

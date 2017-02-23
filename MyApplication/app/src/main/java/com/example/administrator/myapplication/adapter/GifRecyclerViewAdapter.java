@@ -65,7 +65,10 @@ public class GifRecyclerViewAdapter extends RecyclerView.Adapter<GifRecyclerView
                 Glide.with(context)
                         .load(list.get(position).getUrl())
                         .asGif()
+                        .centerCrop()
+                        .placeholder(R.mipmap.ic_mr)
                         .thumbnail(0.1f)
+                        .diskCacheStrategy(DiskCacheStrategy.SOURCE)
                         .diskCacheStrategy(DiskCacheStrategy.SOURCE)
                         .into(holder.mv);
 
